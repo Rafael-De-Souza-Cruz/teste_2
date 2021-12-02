@@ -1,7 +1,17 @@
 #Entrega: Trabalhando em equipe com git.
 
+ rafael
+## Fato sobre <Rafael>
+
+1. Rafael;
+2. Um pouco sobre você;
+3. Comentário sobre o seu relacionamento com a TI;
+
+
+
 ## Fato sobre diego>
 
 1. diego;
 2. Um pouco sobre você;
 3. Comentário sobre o seu relacionamento com a TI;
+ main
