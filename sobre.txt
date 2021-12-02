@@ -1,0 +1,7 @@
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre diego>
+
+1. diego;
+2. Um pouco sobre você;
+3. Comentário sobre o seu relacionamento com a TI;
